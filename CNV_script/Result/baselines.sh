@@ -1,0 +1,1 @@
+perl /lustre/rdi/user/licq/work/BRCA-LR/CNV_script/calculate_baselines.pl /lustre/rdi/user/licq/work/BRCA-LR/CNV_script/script/baselines.contig /lustre/rdi/user/licq/project/BRCA1_BRCA2/Indel/CNV_script/panel12.bed /lustre/rdi/user/licq/work/BRCA-LR/CNV_script/script/baselines

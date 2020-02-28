@@ -1,0 +1,1 @@
+/beegfs/work/commercial_test/databases/cnv-v1/reference/panel12_Baseline_BC_mkdup_ref_COV.txt

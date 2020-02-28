@@ -1,0 +1,1 @@
+perl /lustre/rdi/user/licq/work/BRCA-LR/ctCNV_update/script/z_score.pl  /lustre/rdi/user/licq/work/BRCA-LR/ctCNV_update/panel12_Baseline_BC_mkdup_ref_COV.txt /lustre/rdi/user/licq/work/BRCA-LR/ctCNV_update/analysis_dir/  /lustre/rdi/user/licq/work/BRCA-LR/ctCNV_update/demo/
